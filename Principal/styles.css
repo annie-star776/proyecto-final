@@ -1,0 +1,45 @@
+/*navegador*/ 
+
+
+nav{
+    position:fixed;
+    width:100%;
+    transform:translate(-7px -7px);
+    display: flex;
+    box-shadow: 10px 2px 20px #868686;
+   z-index: 2;
+   background-color: white;
+   margin-top: 0%;
+   
+}
+
+
+nav, ul, li{
+   list-style: none; 
+    display: flex;
+    margin-right: 100px;
+     }
+
+li{
+    transform:translate(30cm);
+    margin-top:40px;
+   
+}
+     #logo{
+    
+     width: 290px;
+     display: flex;
+    
+}
+
+/* carousel de inicio*/
+.carousel-item {
+    height: 700px;
+}
+
+/* pagina en general*/
+
+#s1{
+    height: 500vh;
+
+}
